@@ -38,7 +38,6 @@
   <img alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
   <img alt="MySQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
   <img alt="Linux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
-  <img alt="Cisco" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cisco/cisco-original.svg" />
 </p>
 
 ---
