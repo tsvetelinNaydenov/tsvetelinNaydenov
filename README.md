@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Tsvetelin 🇧🇬</h1>
+<h1 align="center"><Software Engineer in progress...> 🇧🇬</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tsvetelin-naydenov">
