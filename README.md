@@ -1,4 +1,4 @@
-<h1 align="center">Frontend Developer with Angular 🇧🇬</h1>
+<h1 align="center">Frontend Developer | Angular, TypeScript, JavaScript 🇧🇬</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tsvetelin-naydenov">
